@@ -1,12 +1,21 @@
-# React + Vite
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=bugs)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
 
-Currently, two official plugins are available:
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
 
-## Expanding the ESLint configuration
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
+
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
+
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MaciejKrawczyk_ebiznes-sonar-client&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=MaciejKrawczyk_ebiznes-sonar-client)
